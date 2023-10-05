@@ -1,0 +1,1 @@
+// Escribir una funcion llamada saludar. Al ejecutarla la misma debe retornarme un saludo de bienvenida. Deberas hacer un ejemplo con cada una de las formas de sintaxis que aprendimos.
